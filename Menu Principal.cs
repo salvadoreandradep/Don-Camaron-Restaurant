@@ -51,5 +51,11 @@ namespace Don_Camaron_Restaurant
             pedidos pp = new pedidos();
             pp.Show();
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            ugb ugb = new ugb();
+            ugb.Show();
+        }
     }
 }

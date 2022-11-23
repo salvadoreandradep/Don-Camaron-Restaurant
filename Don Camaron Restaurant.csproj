@@ -77,6 +77,12 @@
     <Compile Include="Menu Principal.Designer.cs">
       <DependentUpon>Menu Principal.cs</DependentUpon>
     </Compile>
+    <Compile Include="party.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="party.Designer.cs">
+      <DependentUpon>party.cs</DependentUpon>
+    </Compile>
     <Compile Include="pedidos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -117,6 +123,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Menu Principal.resx">
       <DependentUpon>Menu Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="party.resx">
+      <DependentUpon>party.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="pedidos.resx">
       <DependentUpon>pedidos.cs</DependentUpon>

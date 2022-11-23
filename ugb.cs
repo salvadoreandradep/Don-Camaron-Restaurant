@@ -21,5 +21,16 @@ namespace Don_Camaron_Restaurant
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            party pa = new party();
+            pa.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
