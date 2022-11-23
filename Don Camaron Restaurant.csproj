@@ -47,6 +47,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="acerca de.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acerca de.Designer.cs">
+      <DependentUpon>acerca de.cs</DependentUpon>
+    </Compile>
     <Compile Include="bitacora.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -109,6 +115,9 @@
     <Compile Include="ugb.Designer.cs">
       <DependentUpon>ugb.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="acerca de.resx">
+      <DependentUpon>acerca de.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="bitacora.resx">
       <DependentUpon>bitacora.cs</DependentUpon>
     </EmbeddedResource>
@@ -182,6 +191,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\D6xZQ59XsAIEx8y.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Don-Kamaron-Logo_1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

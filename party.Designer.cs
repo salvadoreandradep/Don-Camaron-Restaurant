@@ -162,6 +162,7 @@ namespace Don_Camaron_Restaurant
             this.Controls.Add(this.txtcodigo);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "party";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "party";
             this.Load += new System.EventHandler(this.party_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();

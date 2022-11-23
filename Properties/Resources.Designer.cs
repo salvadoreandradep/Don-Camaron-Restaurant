@@ -124,6 +124,16 @@ namespace Don_Camaron_Restaurant.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Don_Kamaron_Logo_1 {
+            get {
+                object obj = ResourceManager.GetObject("Don_Kamaron_Logo_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap page_1 {
             get {
                 object obj = ResourceManager.GetObject("page_1", resourceCulture);

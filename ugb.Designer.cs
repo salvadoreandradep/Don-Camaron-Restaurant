@@ -68,7 +68,7 @@ namespace Don_Camaron_Restaurant
             // 
             this.pictureBox3.BackColor = System.Drawing.Color.ForestGreen;
             this.pictureBox3.Image = global::Don_Camaron_Restaurant.Properties.Resources.D6xZQ59XsAIEx8y;
-            this.pictureBox3.Location = new System.Drawing.Point(-1, 72);
+            this.pictureBox3.Location = new System.Drawing.Point(-2, 72);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(803, 309);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -119,6 +119,7 @@ namespace Don_Camaron_Restaurant
             this.Controls.Add(this.pictureBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "ugb";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ugb";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();

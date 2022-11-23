@@ -209,6 +209,7 @@ namespace Don_Camaron_Restaurant
             this.Controls.Add(this.pictureBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "pedidos";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "pedidos";
             this.Load += new System.EventHandler(this.pedidos_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

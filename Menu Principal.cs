@@ -57,5 +57,11 @@ namespace Don_Camaron_Restaurant
             ugb ugb = new ugb();
             ugb.Show();
         }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            acerca_de aaa = new acerca_de();
+            aaa.Show();
+        }
     }
 }

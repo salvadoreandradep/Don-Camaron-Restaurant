@@ -117,29 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="abstract_background_with_black_and_orange_gradient_colors_backgrounds_for_wallpapers_and_covers_design_for_banner_template_vector" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\abstract-background-with-black-and-orange-gradient-colors-backgrounds-for-wallpapers-and-covers-design-for-banner-template-vector.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="contacts_profile_account_connection_icon_124666" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\contacts_profile_account_connection_icon_124666.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="D6xZQ59XsAIEx8y" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\D6xZQ59XsAIEx8y.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="descarga" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\descarga.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="descarga__5_" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\descarga (5).jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Don_Kamaron_Logo_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Don-Kamaron-Logo_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="page_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\page_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_1486485581_account_audience_person_customer_profile_user_81164" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1486485581-account-audience-person-customer-profile-user_81164.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>
